@@ -1,5 +1,4 @@
 # main functions
-source(here('functions', 'dateFuncs.R'))
 source(here('functions', 'getFuncs.R'))
 source(here('functions', 'cleanFuncs.R'))
 source(here('functions', 'calcFuncs.R'))
